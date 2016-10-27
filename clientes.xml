@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<clientes>
+<cliente>
+<Nombre>Manuel Alejandro Ceniceros Mercado</Nombre>
+<Direccion>La penca 203 cp:34567</Direccion>
+<rfc>MACM12953952369</rfc>
+<Telefono>8134567</Telefono>
+</cliente>
+<cliente>
+<Nombre>Edgar Ricardo Esquivel Pantoja</Nombre>
+<Direccion>Mansión Palomitos 345 Fracc. Santuario</Direccion>
+<rfc>EREP12345GFA</rfc>
+<Telefono>81245568</Telefono>
+</cliente>
+<cliente>
+<Nombre>Misael Hernández</Nombre>
+<Direccion>Calle monstruos 345 CBTIS 89</Direccion>
+<rfc>MHV342546</rfc>
+<Telefono>8342355</Telefono>
+</cliente>
+<cliente>
+<Nombre>Cliente prueba</Nombre>
+<Direccion>Tecno</Direccion>
+<rfc>FASFA9413414</rfc>
+<Telefono>8123456</Telefono>
+</cliente>
+</clientes>

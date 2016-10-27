@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<proveedores>
+<proveedor>
+<Nombre>Larreta's Chus</Nombre>
+<Direccion>En lo mas alto del cerro</Direccion>
+<Concepto>Zapatos</Concepto>
+<Telefono>8134325</Telefono>
+</proveedor>
+<proveedor>
+<Nombre>Balones Guadiana</Nombre>
+<Direccion>Blvd. Francisco VIlla 123</Direccion>
+<Concepto>Balones y artículos de deportes</Concepto>
+<Telefono>8564534</Telefono>
+</proveedor>
+<proveedor>
+<Nombre>Deportes Compi Olguin</Nombre>
+<Direccion>Abasolo 34234</Direccion>
+<Concepto>Articulos de deportes</Concepto>
+<Telefono>8124125</Telefono>
+</proveedor>
+<proveedor>
+<Nombre>Bicicletas Del Norte</Nombre>
+<Direccion>Carretera a México 2345</Direccion>
+<Concepto>Articulos para ciclismo</Concepto>
+<Telefono>835146345</Telefono>
+</proveedor>
+<proveedor>
+<Nombre>Articulos De Natacion Manuelito</Nombre>
+<Direccion>La morga 300</Direccion>
+<Concepto>ARticulos de natacion</Concepto>
+<Telefono>8123435</Telefono>
+</proveedor>
+</proveedores>

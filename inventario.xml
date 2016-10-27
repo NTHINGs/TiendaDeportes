@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<inventario>
+<producto>
+<Codigo>346313</Codigo>
+<Nombre>Bicicleta Specialized Montaña</Nombre>
+<Precio>14567</Precio>
+<Existencia>29</Existencia>
+<Proveedor>Bicicletas Del Norte</Proveedor>
+</producto>
+<producto>
+<Codigo>253125</Codigo>
+<Nombre>Bicicleta Specialized Ruta</Nombre>
+<Precio>24566</Precio>
+<Existencia>30</Existencia>
+<Proveedor>Bicicletas Del Norte</Proveedor>
+</producto>
+<producto>
+<Codigo>342352</Codigo>
+<Nombre>Equipo Especializado Para Bicicleta</Nombre>
+<Precio>5456</Precio>
+<Existencia>9</Existencia>
+<Proveedor>Bicicletas Del Norte</Proveedor>
+</producto>
+<producto>
+<Codigo>521535</Codigo>
+<Nombre>Balón de Futból</Nombre>
+<Precio>44</Precio>
+<Existencia>99</Existencia>
+<Proveedor>Balones Guadiana</Proveedor>
+</producto>
+<producto>
+<Codigo>532362</Codigo>
+<Nombre>Balon de Basquetbol</Nombre>
+<Precio>60</Precio>
+<Existencia>99</Existencia>
+<Proveedor>Balones Guadiana</Proveedor>
+</producto>
+<producto>
+<Codigo>512512</Codigo>
+<Nombre>Balon de Voleybol</Nombre>
+<Precio>45</Precio>
+<Existencia>100</Existencia>
+<Proveedor>Balones Guadiana</Proveedor>
+</producto>
+<producto>
+<Codigo>234325</Codigo>
+<Nombre>Uniforme Barcelona</Nombre>
+<Precio>545</Precio>
+<Existencia>15</Existencia>
+<Proveedor>Uniformes Mexicanos SA. De CV.</Proveedor>
+</producto>
+<producto>
+<Codigo>010101</Codigo>
+<Nombre>Raquetas De Tenis</Nombre>
+<Precio>20</Precio>
+<Existencia>19</Existencia>
+<Proveedor>Balones Guadiana</Proveedor>
+</producto>
+<producto>
+<Codigo>021412</Codigo>
+<Nombre>Pelota De Tenis</Nombre>
+<Precio>35</Precio>
+<Existencia>20</Existencia>
+<Proveedor>Balones Guadiana</Proveedor>
+</producto>
+<producto>
+<Codigo>141251</Codigo>
+<Nombre>Tenis Larreta</Nombre>
+<Precio>1500</Precio>
+<Existencia>18</Existencia>
+<Proveedor>Larreta's Chus</Proveedor>
+</producto>
+<producto>
+<Codigo>123123</Codigo>
+<Nombre>Tenis</Nombre>
+<Precio>900</Precio>
+<Existencia>20</Existencia>
+<Proveedor>Larreta's Chus</Proveedor>
+</producto>
+</inventario>
